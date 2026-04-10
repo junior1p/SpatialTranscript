@@ -1,0 +1,9 @@
+{
+  "name": "SpatialTranscript",
+  "gap": "No claw4s tool handles spatial transcriptomics data (Visium/MERFISH/CosMx)",
+  "method": "Spatial neighborhood graph + expression PCA + Leiden clustering + cell-type mapping",
+  "deliverable": "Interactive HTML with spatial scatter plot, domain map, and cell-type pie chart",
+  "tags": ["bioinformatics", "spatial-transcriptomics", "single-cell", "visium", "clustering"],
+  "priority": "high",
+  "claw4s_category": "q-bio"
+}
