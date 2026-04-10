@@ -1,0 +1,62 @@
+{
+  "GENE_0145": {
+    "morans_i": 0.5456102100749336,
+    "morans_pval": 0.01,
+    "gearys_c": 0.45215201316028203,
+    "gearys_pval": 0.01
+  },
+  "GENE_0072": {
+    "morans_i": 0.6128193906905635,
+    "morans_pval": 0.01,
+    "gearys_c": 0.3812090779243177,
+    "gearys_pval": 0.01
+  },
+  "GENE_0106": {
+    "morans_i": 0.5466028507871021,
+    "morans_pval": 0.01,
+    "gearys_c": 0.4492986062665518,
+    "gearys_pval": 0.01
+  },
+  "GENE_0014": {
+    "morans_i": 0.37650590221560115,
+    "morans_pval": 0.01,
+    "gearys_c": 0.621117363718481,
+    "gearys_pval": 0.01
+  },
+  "GENE_0171": {
+    "morans_i": 0.44132215378706435,
+    "morans_pval": 0.01,
+    "gearys_c": 0.5535213550904274,
+    "gearys_pval": 0.01
+  },
+  "GENE_0193": {
+    "morans_i": 0.40760681236972535,
+    "morans_pval": 0.01,
+    "gearys_c": 0.5869843735629957,
+    "gearys_pval": 0.01
+  },
+  "GENE_0166": {
+    "morans_i": 0.35187388900913186,
+    "morans_pval": 0.01,
+    "gearys_c": 0.6432732154037073,
+    "gearys_pval": 0.01
+  },
+  "GENE_0165": {
+    "morans_i": 0.36856836494692,
+    "morans_pval": 0.01,
+    "gearys_c": 0.6272939109115677,
+    "gearys_pval": 0.01
+  },
+  "GENE_0109": {
+    "morans_i": 0.6004222150809007,
+    "morans_pval": 0.01,
+    "gearys_c": 0.38930033859696744,
+    "gearys_pval": 0.01
+  },
+  "GENE_0011": {
+    "morans_i": 0.32463874120624264,
+    "morans_pval": 0.01,
+    "gearys_c": 0.6704581062957241,
+    "gearys_pval": 0.01
+  }
+}
